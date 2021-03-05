@@ -36,7 +36,7 @@ export default class Document extends NextDocument {
     return (
       <Html lang="it">
         <Head>
-          <link rel="shortcut icon" href="/icons/favicon.ico" />
+          <link rel="shortcut icon" href="favicon.ico" />
           <meta name="google-site-verification" content="M8eO4mYEdHHtKpSYgGOeXo-E-kFAfOmFMUwmaii2bkM" />
           <link href="https://fonts.googleapis.com/css2?family=Turret+Road:wght@500;800&display=swap" rel="stylesheet" />
         </Head>
